@@ -3,7 +3,8 @@
 ### About Me:
 - 💻 **Technical Lead** && **Software DEV**.
 - 🚀 Experienced in backend development, cloud computing, and DevOps.
-- 🌐 Skilled in Java, Spring, Batch, Cloud, SQL, AWS, Docker, and blockchain technologies.
+- 🎓 Bachelor of Computer Science, focused in Computer Science, from **Universitatea „Alexandru Ioan Cuza” din Iași**.
+- 🌐 Skilled in Java, Spring, Batch, Cloud, SQL, AWS, Docker, React, Angular, TypeScript, HTML, and blockchain technologies.
 
 ---
 
@@ -11,6 +12,9 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
